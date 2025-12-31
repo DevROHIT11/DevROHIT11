@@ -65,7 +65,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DevROHIT11" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" width="40"/>
+     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+       width="40" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:rohitbhalekar.nbnstic.comp@gmail.com">
