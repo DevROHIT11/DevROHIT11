@@ -60,14 +60,16 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit-bhalekar-1603b02ab">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Bhalekar-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/rohit-bhalekar-1603b02ab" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DevROHIT11" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:rohitbhalekar.nbnstic.comp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/DevROHIT11">
-    <img src="https://img.shields.io/badge/GitHub-DevROHIT11-black?style=for-the-badge&logo=github" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
   </a>
 </p>
 
