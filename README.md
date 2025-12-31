@@ -50,9 +50,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevROHIT11&show_icons=true&theme=github_dark&cache_seconds=86400"/>
-  <img src="https://streak-stats.demolab.com?user=DevROHIT11&theme=github-dark"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevROHIT11&show_icons=true&theme=dark" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DevROHIT11&theme=dark" />
+</p>
+
 
 ## 🤝 Connect With Me
 
@@ -77,3 +80,5 @@
 <p align="center">
   ⭐ If you like my work, consider starring my repositories!
 </p>
+
+
