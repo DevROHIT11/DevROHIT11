@@ -65,8 +65,12 @@
   </a>
   &nbsp;&nbsp;&nbsp;
  <a href="https://rohitlbhalekar1812.wixsite.com/my-site" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg"
-       width="40" style="filter: invert(1);" />
+ <img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/briefcase.svg"
+    width="40"
+    style="filter: brightness(0) invert(1);"
+    alt="Portfolio"
+  />
 </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:rohitbhalekar.nbnstic.comp@gmail.com">
