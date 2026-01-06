@@ -59,24 +59,6 @@
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohit-bhalekar-1603b02ab" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
- <a href="https://rohitlbhalekar1812.wixsite.com/my-site" target="_blank">
- <img
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
-    width="40"
-    style="filter: brightness(0) invert(1);"
-    alt="GitHub"
-  />
-</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:rohitbhalekar.nbnstic.comp@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
-  </a>
-</p>
 
 ---
 
