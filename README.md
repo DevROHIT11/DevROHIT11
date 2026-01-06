@@ -57,8 +57,19 @@
 </p>
 
 
-## 🤝 Connect With Me
 
+<div align="left">
+  <h2 display="inline-block">Connect Me : 
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" height="555" alt="LinkedIn" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6C757D?style=plastic&logo=googlechrome&logoColor=white" height="55" alt="Portfolio" />
+  </a>
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" height="55" alt="Gmail" />
+  </a>
+</div>
 
 ---
 
