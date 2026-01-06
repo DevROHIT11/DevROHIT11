@@ -109,7 +109,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/rohit-bhalekar-1603b02ab" target="_blank">
+  <a href="https://www.linkedin.com/in/rohit-bhalekar-1603b02ab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&shadow=0px%204px%206px%20rgba(0,0,0,0.3)" height="45" alt="LinkedIn" />
   </a>
   <a href="https://rohitlbhalekar1812.wixsite.com/my-site" target="_blank">
