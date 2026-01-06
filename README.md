@@ -64,10 +64,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DevROHIT11" target="_blank">
-     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+ <a href="https://rohitlbhalekar1812.wixsite.com/my-site" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg"
        width="40" style="filter: invert(1);" />
-  </a>
+</a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:rohitbhalekar.nbnstic.comp@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
