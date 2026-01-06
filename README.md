@@ -65,12 +65,13 @@
   </a>
   &nbsp;&nbsp;&nbsp;
  <a href="https://rohitlbhalekar1812.wixsite.com/my-site" target="_blank">
- <img
-    src="globe-earth-icon-editable-line-simple-vector-30419080.svg"
-    width="40"
-    style="filter: brightness(0) invert(1);"
-    alt="Portfolio"
-  />
+ <svg width="40" height="40" viewBox="0 0 24 24" fill="none"
+       xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="9" stroke="white" stroke-width="2"/>
+    <path d="M3 12h18" stroke="white" stroke-width="2"/>
+    <path d="M12 3c3 3 3 15 0 18c-3-3-3-15 0-18z"
+          stroke="white" stroke-width="2"/>
+  </svg>
 </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:rohitbhalekar.nbnstic.comp@gmail.com">
