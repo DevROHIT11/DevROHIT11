@@ -66,7 +66,7 @@
   &nbsp;&nbsp;&nbsp;
  <a href="https://rohitlbhalekar1812.wixsite.com/my-site" target="_blank">
  <img
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/briefcase.svg"
+    src="globe-earth-icon-editable-line-simple-vector-30419080.svg"
     width="40"
     style="filter: brightness(0) invert(1);"
     alt="Portfolio"
