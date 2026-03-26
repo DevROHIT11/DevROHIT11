@@ -1,7 +1,7 @@
-<h1 align="center">Howdy👋 , I'm Rohit Bhalekar </h1>
+<h1 align="center">Howdy 👋, I'm Rohit Bhalekar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Building+Scalable+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Engineer;Open+Source+Contributor;Building+Scalable+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,15 +14,17 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" text-align= "justify" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
--  Computer Engineering student with strong fundamentals in **Web Development & MERN Stack**
--  Currently building **full-stack web applications** and **responsive user-centric UIs**
--  Looking to collaborate on **Open Source Projects** and **MERN Stack Applications**
--  Learning **Advanced React, Backend Optimization, DSA & Cloud Basics**
--  Ask me about **HTML, CSS, JavaScript, React.js, MERN Stack**
--  Fun fact: I enjoy **mentoring beginners** and reviewing code as much as writing it
--  Reach me at **rohitwork112004@gmail.com**
+- Computer Engineering student with a strong interest in **AI, Web development and data-driven systems**
+- Working with **Python, Pandas, NumPy** for data analysis and building intelligent applications
+- Exploring **Generative AI (Gemini API)** and AI-powered workflows
+- Experienced in building web applications
+- Looking to collaborate on **Open Source, AI, and Web based projects**
+- Currently learning **Backend systems and DSA**
+- Ask me about **Python, AI basics, APIs, and web development**
+- Enjoy mentoring, code reviews, and helping others get started with development
+- Reach me at: **rohitwork112004@gmail.com**
 
 <br clear="right"/>
 
@@ -32,47 +34,36 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="200">
-      <b style="font-size: 18px;">Frontend</b>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-    </td>
+    <td align="center" width="200"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react" /></td>
   </tr>
-  
   <tr>
-    <td align="center" width="200">
-      <b style="font-size: 18px;">Backend</b>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-    </td>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,flask" /></td>
   </tr>
-  
   <tr>
-    <td align="center" width="200">
-      <b style="font-size: 18px;">Programming languages</b>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,python" />
-    </td>
+    <td align="center"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,python,js" /></td>
   </tr>
-
-   <tr>
-    <td align="center" width="200">
-      <b style="font-size: 18px;">Tools & Others</b>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,geminiAPI" />
-    </td>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Libraries & APIs</b></td>
+    <td><b>NumPy &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; Matplotlib &nbsp;•&nbsp; Gemini API &nbsp;•&nbsp; REST APIs</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools & Platforms</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,render" /></td>
   </tr>
 </table>
 
 ---
 
-## 🏆 GSSOC(24) Open Source Contribution Badges
+## 🏆 GSSoC '24 Open Source Contribution Badges
 
-<div align='center'>
+<div align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -83,6 +74,64 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   </a>
+</div>
+
+---
+
+## 🚀 Top Projects
+
+<div align="center">
+<table>
+<tr>
+
+<td width="31%" valign="top">
+
+<h3 align="center">📊 AadharX Engine</h3>
+<h4 align="center">Aadhaar Data Analytics Platform</h4>
+<hr style="border: 0.5px solid #444; margin: 12px 0;">
+
+▸ Analyzed **8M+ UIDAI records** to uncover trends<br>
+▸ Performed **time-series analysis** for demand spikes<br>
+▸ Built visualizations with **Pandas, NumPy, Matplotlib**
+
+[🔗 View Project →](https://github.com/DevROHIT11/UIDAI-Data-Hackathon)
+
+</td>
+
+<td width="2%"></td>
+
+<td width="31%" valign="top">
+
+<h3 align="center">🤖 Quantara</h3>
+<h4 align="center">AI-Powered Financial Insights</h4>
+<hr style="border: 0.5px solid #444; margin: 12px 0;">
+
+▸ Financial data analysis & AI-driven insights<br>
+▸ Integrated **REST APIs** for automated workflows<br>
+▸ Designed **data-driven processing pipelines**
+
+[🔗 View Project →](https://github.com/DevROHIT11/Quantara)
+
+</td>
+
+<td width="2%"></td>
+
+<td width="31%" valign="top">
+
+<h3 align="center">⚙️ HydroCompute</h3>
+<h4 align="center">Data Processing & AI System</h4>
+<hr style="border: 0.5px solid #444; margin: 12px 0;">
+
+▸ Built modular backend using **Flask**<br>
+▸ Document parsing with **PyMuPDF & OpenPyXL**<br>
+▸ Integrated **Gemini API** for intelligent automation
+
+[🔗 View Project →](https://github.com/DevROHIT11/HydroCompute)
+
+</td>
+
+</tr>
+</table>
 </div>
 
 ---
@@ -105,20 +154,19 @@
 
 ---
 
-
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-bhalekar-1603b02ab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&shadow=0px%204px%206px%20rgba(0,0,0,0.3)" height="45" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn" />
   </a>
-  <a href="https://rohitlbhalekar1812.wixsite.com/my-site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6C757D?style=for-the-badge&logo=googlechrome&logoColor=white" height="45" alt="Portfolio" />
-  </a>
+  &nbsp;
+  &nbsp;
   <a href="mailto:rohitwork112004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Gmail" />
   </a>
 </p>
 
 ---
-  <h3 align="center"> "Always open to learning, collaboration, and meaningful opportunities."</h3>
+
+<h3 align="center">"Always open to learning, collaboration, and meaningful opportunities."</h3>
